@@ -7,7 +7,7 @@
 //
 
 #include <iostream>
-#include "Week 1.hpp"
+#include "Week1.hpp"
 using namespace std;
 
 int main(int argc, const char * argv[]) {
